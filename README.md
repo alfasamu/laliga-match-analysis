@@ -36,7 +36,7 @@ Note: Red cards show a small absolute difference because they are rare events, b
 
 Dashboard
 
-🔗 View the interactive dashboard on Tableau Public
+🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/LaLigaMatchAnalysis-WhatPredictsaWin/Dashboard1)**
 
 Files in this repo
 LA_LIGA_PROJECT_EN.pdf — full case study write-up
